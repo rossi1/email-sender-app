@@ -1,0 +1,4 @@
+*.DS_Store
+*.idea/
+/django-mail-sender/*
+.env
